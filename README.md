@@ -4,7 +4,7 @@
 
 <!-- INTRODUCTION -->
     
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Samar </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Mumtaz </h1>
 <h3 align="center">I'm an aspiring Data Analyst from India.</h3>
 
 
@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning **Data Science and Analytics.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/samar4saeedkhan?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a>
+- 👨‍💻 All of my projects are available at <!--//<a href="https://github.com/samar4saeedkhan?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a> //-->
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/samarsaeedkhan)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/mumtaz7220)**
 
 <br>
 
