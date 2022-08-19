@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at <!--//<a href="https://github.com/samar4saeedkhan?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a> //-->
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/mumtaz7220)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/mumtaz-ansari-89319782/)**
 
 <br>
 
