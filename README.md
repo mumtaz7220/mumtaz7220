@@ -70,7 +70,7 @@
 <!-- 2nd DROP DOWN -->
 
 <details>
- <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
+ <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy </b></summary>
 <br>
   <p align="center" dir="auto">
     <img src="https://github-profile-trophy.vercel.app/?username=samar4saeedkhan&theme=onedark">
