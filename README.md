@@ -81,7 +81,7 @@
 <details>
   <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
     <br>
-    <a href="https://github.com/Mumtaz Ansari/github-readme-activity-graph"><img alt="Mumtaz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mumtaz ansari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/Mumtaz Ansari/github-readme-activity-graph"><img alt="Mumtaz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samar4saeedkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
     </details>
 
 <!--CONNECT WITH ME code -->
